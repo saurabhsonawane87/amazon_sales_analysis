@@ -9,6 +9,10 @@ This project presents an end-to-end analysis of Amazon sales data to understand 
 
 The focus is not just on querying data, but on designing correct business metrics and identifying where revenue and customer experience are actually impacted.
 
+##Data Availability 
+The raw and cleaned datasets are not included in this repository due to file size constraints.
+All data cleaning steps, SQL logic, and analysis workflows are fully documented in the provided notebooks and SQL scripts.
+
 
 Business Questions Addressed
 -----------------------------
@@ -95,5 +99,6 @@ Assumptions & Notes
 
 Conclusion
 ----------
+
 
 This project demonstrates practical data analyst skills by translating raw transactional data into business-ready insights, with careful attention to metric correctness, consistency, and interpretability.
